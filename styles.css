@@ -12,9 +12,9 @@ html {
 }
 
 body {
-  font-family: 'Press Start 2P', sans-serif;
+  font-family: 'Press Start 2P';
   color: #eee;
-  background-color: #222;
+  background-color: rgb(9, 128, 128);
 }
 
 /* Layout */
@@ -88,6 +88,7 @@ h1 {
   font-family: inherit;
   padding: 2rem 3rem;
   cursor: pointer;
+  border-radius: 1rem;
 }
 
 .guess {
